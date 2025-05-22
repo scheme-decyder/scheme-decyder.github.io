@@ -6,10 +6,15 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: Scheme Decyder
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: A miniature painting, RPG, and programming blog. Hopefully with some intersections of the three.
+
+author:
+  name: Decyne
+
+github_username: scheme-decyder
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -20,7 +25,7 @@ avatar: /assets/image/avatar.png
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://forever-jekyll.github.io
+url: https://scheme-decyder.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -45,12 +50,12 @@ footer_links:
     url: feed.xml
     icon: fa fa-rss-square
 
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
+    #  - title: Twitter
+    #    url: https://twitter.com/jekyllrb
+    #    icon: fa fa-twitter-square
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/scheme-decyder
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
