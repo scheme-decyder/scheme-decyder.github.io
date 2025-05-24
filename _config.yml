@@ -38,11 +38,11 @@ navigation_links:
   - title: Blog
     url: /
 
-  - title: About
-    url: /about
-
   - title: Resources
     url: https://github.com/scheme-decyder/resources#
+
+  - title: About
+    url: /about
 
     #  - title: Search
     #    url: /search
