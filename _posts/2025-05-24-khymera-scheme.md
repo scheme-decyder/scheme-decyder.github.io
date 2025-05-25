@@ -45,7 +45,7 @@ The reason I think the sponging works, on this model in particular, is because t
 
 [![sponging]({{ site.baseurl }}/assets/image/khymera-scheme/gold.jpg)]({{ site.baseurl }}/assets/image/khymera-scheme/gold.jpg){:.glightbox}
 
-So, most of the way there. Let's take a step back and see how we feel. Compared to the initial test model, I ended up sponging a more saturated jade green on top of the desaturated green because I didn't think there was enough contrast between the scales and the underbelly. I also changed from purple spots on the scales to pink spots. I'm unsure if this pops too much, I might go midway and try a dark magenta next. I would also make the purple spots on the underbelly/wings more transparent next time. We're getting close, just highlights, base and finishing touches.
+So, most of the way there. Let's take a step back and see how we feel. Compared to the initial test model, I changed from purple spots on the scales to pink spots. I'm unsure if this pops too much, I might go midway and try a dark magenta next. I would also make the purple spots on the underbelly/wings more transparent next time. We're getting close, just highlights, base and finishing touches.
 
 [![final_model]({{ site.baseurl }}/assets/image/khymera-scheme/final.jpg)]({{ site.baseurl }}/assets/image/khymera-scheme/final.jpg){:.glightbox}
 
