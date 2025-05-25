@@ -12,7 +12,7 @@ Advantages:
 Disadvantages:
 - Not as smooth transitions
 - Hard to reach crevices 
-- 
+  
 Advantage or Disadvantage?
 - Leaves a speckled, textured finish
 
