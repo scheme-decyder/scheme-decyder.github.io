@@ -50,7 +50,7 @@ After running this code we can have a look at the .tex file produced. This conta
 
 Finally we can have a look at the PDF document produced by LaTeX. I'm using a [template to match old school D&D adventures](https://www.dragonsfoot.org/forums/viewtopic.php?f=87&t=73823). If you want to try out my script you will need to use this template.
 
-![PDF Output Snippet]({{ site.baseurl }}/assets/image/hex_tiles/hex_pdf.png)
+![PDF Output Snippet]({{ site.baseurl }}/assets/image/hex_tiles/hex_pdf.jpg)
 
 Looks good!
 
