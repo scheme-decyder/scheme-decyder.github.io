@@ -7,7 +7,7 @@ Everyone seems to have their own speedpainting method. This is the method that I
 
 To find out how fast it was, I decided to time each step. This also lets you see what step had the biggest impact compared to the amount of time it takes.
 
-For this, I am painting a Farrow force to be used for demo games for Warmachine. These models are STL's that are a part of the welcome pack of the [Warmachine MyMiniFactory|https://www.myminifactory.com/users/Warmachine].
+For this, I am painting a Farrow force to be used for demo games for Warmachine. These models are STL's that are a part of the welcome pack of the [Warmachine MyMiniFactory](https://www.myminifactory.com/users/Warmachine).
 
 A overview of the method is:
 * Airbrush undertones
@@ -18,7 +18,7 @@ A overview of the method is:
 
 The total time is summarised in the table below. These models were done as a batch, the time taken is to complete that step on all models.
 
-|| Step || Time Taken ||
+| Step | Time Taken |
 | Basing                                                           | 44m   |
 | Rattlecan white                                                  | 10m   |
 | Airbrush pink and purple                                         | 33m   |
